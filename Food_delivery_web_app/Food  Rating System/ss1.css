@@ -1,0 +1,13 @@
+﻿
+#panel {
+    position: absolute;
+    text-align: left;
+    top: 60px;
+    height: 200px;
+    width: 600px;
+    color: blue;
+    border-color:black;
+    border-style:solid;
+    
+    
+}
